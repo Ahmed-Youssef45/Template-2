@@ -313,11 +313,11 @@ header {
     .contact-content {
       margin: 100px 0;
       text-align: center;
-      .text{
-        & h2{
+      .text {
+        & h2 {
           font-size: 2.5rem;
         }
-        & a{
+        & a {
           display: block;
           margin: 20px 0;
           font-size: 2rem;
@@ -325,23 +325,23 @@ header {
           text-decoration: none;
         }
       }
-      .find-us{
+      .find-us {
         display: flex;
         justify-content: center;
         align-items: center;
-        & p{
+        & p {
           padding-right: 5px;
           font-size: 1.2rem;
           letter-spacing: 0.6px;
         }
-        & a{
+        & a {
           padding: 0 3px;
         }
       }
     }
   }
 }
-footer{
+footer {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -443,7 +443,7 @@ footer{
   .hero {
     .container {
       & h1 {
-        font-size: 3rem;
+        font-size: 2.7rem;
       }
     }
   }
@@ -463,14 +463,14 @@ footer{
       }
     }
   }
-  .contact{
-    .container{
-      .contact-content{
-        .text{
-          & h2{
+  .contact {
+    .container {
+      .contact-content {
+        .text {
+          & h2 {
             font-size: 1.2rem;
           }
-          & a{
+          & a {
             font-size: 1.3rem;
           }
         }
